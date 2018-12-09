@@ -1,5 +1,7 @@
 # charge
 
+[(read the blog post for a more detailed explaination)](http://zacgarby.co.uk/posts/1.html)
+
 Suppose you have a cuboid containing some charged particles in random positions and with random (positive or negative) charges. For each slice of a certain height in that cuboid, look at each point on that plane and measure the force due to electric charge and convert the magnitude of that force using some function into a colour, then set the corresponding pixel of the corresponding frame of a gif to that colour. For each pixel, do the same, and then look at the gif. This program does exactly that, and it looks very cool.
 
 ![](out.gif)
